@@ -1,4 +1,4 @@
-# Criptomoedas
+# Dev Currency
 
 Aplicação web para consulta e acompanhamento de criptomoedas em tempo real, desenvolvida com React, TypeScript e Vite, utilizando a API CoinCap.
 
@@ -38,13 +38,13 @@ Os dados das criptomoedas são obtidos através da CoinCap API.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/phmotta9/criptomoedas.git
+git clone https://github.com/phmotta9/projeto-dev-currency.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd criptomoedas
+cd projeto-dev-currency
 ```
 
 Instale as dependências:
@@ -69,4 +69,6 @@ A aplicação estará disponível no endereço informado pelo Vite no terminal.
 
 ## Objetivo
 
-Projeto desenvolvido para praticar desenvolvimento de aplicações web utilizando React, TypeScript, consumo de APIs externas e gerenciamento de rotas.
+Projeto desenvolvido para praticar desenvolvimento de aplicações web utilizando React, TypeScript, consumo de APIs externas e gerenciamento de rotas, componentização e persistência de dados no navegador.
+
+O Dev Currency também faz parte do meu portfólio como estudante de Engenharia de Software, servindo como aplicação prática dos conhecimentos adquiridos no desenvolvimento frontend.
